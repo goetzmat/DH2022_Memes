@@ -1,0 +1,73 @@
+Starting Meme Download
+Memes Ab 1:2013
+Total: 1000 Successful: 356, Failed Download: 27 
+Max Score: 1053 
+ 
+Memes Ab 7:2013
+Total: 1000 Successful: 561, Failed Download: 67 
+Max Score: 2459 
+ 
+Memes Ab 1:2014
+Total: 1000 Successful: 529, Failed Download: 48 
+Max Score: 1379 
+ 
+Memes Ab 7:2014
+Total: 1000 Successful: 610, Failed Download: 31 
+Max Score: 2293 
+ 
+Memes Ab 1:2015
+Total: 1000 Successful: 498, Failed Download: 29 
+Max Score: 1994 
+ 
+Memes Ab 7:2015
+Total: 1000 Successful: 442, Failed Download: 25 
+Max Score: 985 
+ 
+Memes Ab 1:2016
+Total: 1000 Successful: 483, Failed Download: 33 
+Max Score: 1920 
+ 
+Memes Ab 7:2016
+Total: 1000 Successful: 301, Failed Download: 49 
+Max Score: 36536 
+ 
+Memes Ab 1:2017
+Total: 1000 Successful: 655, Failed Download: 82 
+Max Score: 26020 
+ 
+Memes Ab 7:2017
+Total: 1000 Successful: 895, Failed Download: 77 
+Max Score: 46663 
+ 
+Memes Ab 1:2018
+Total: 1000 Successful: 846, Failed Download: 124 
+Max Score: 69767 
+ 
+Memes Ab 7:2018
+Total: 1000 Successful: 863, Failed Download: 131 
+Max Score: 117203 
+ 
+Memes Ab 1:2019
+Total: 1000 Successful: 915, Failed Download: 81 
+Max Score: 166899 
+ 
+Memes Ab 7:2019
+Total: 1000 Successful: 926, Failed Download: 66 
+Max Score: 204916 
+ 
+Memes Ab 1:2020
+Total: 1000 Successful: 953, Failed Download: 42 
+Max Score: 303731 
+ 
+Memes Ab 7:2020
+Total: 1000 Successful: 886, Failed Download: 29 
+Max Score: 271682 
+ 
+Memes Ab 1:2021
+Total: 900 Successful: 608, Failed Download: 23 
+Max Score: 246720 
+ 
+Memes Ab 7:2021
+Total: 900 Successful: 639, Failed Download: 29 
+Max Score: 153018 
+ 
